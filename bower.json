@@ -1,8 +1,7 @@
 {
     "name"        : "w2ui",
-    "version"     : "1.4.3",
     "homepage"    : "http://w2ui.com",
-    "main"        : "w2ui-1.4.3.min.js",
+    "main"        : "w2ui.min.js",
     "ignore"      : ["bower.json"],
     "dependencies": {
         "jquery": "~2.1.4"
@@ -12,11 +11,11 @@
         "url"   : "http://w2ui.com",
         "email" : "vitmalina@gmail.com"
     },
-    "main": ["w2ui-1.4.3.min.js", "w2ui-1.4.3.min.css"],    
+    "main": ["w2ui.min.js", "w2ui.min.css"],
     "scripts": [
-        "w2ui-1.4.3.min.js"
+        "w2ui.min.js"
     ],
     "styles": [
-        "w2ui-1.4.3.min.css"
+        "w2ui.min.css"
     ]
 }
