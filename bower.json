@@ -12,5 +12,5 @@
         "email" : "vitmalina@gmail.com"
     },
     "main": ["w2ui.js", "w2ui.css"],
-    "private"   : true,
+    "private"   : true
 }
